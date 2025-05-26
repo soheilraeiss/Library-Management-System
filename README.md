@@ -1,1 +1,3 @@
-Creating a Library Management System with C++ involves managing essential operations such as user login, book cataloging, monitoring borrowing records, and producing reports on book availability and user activities. The system keeps user and book information in two text files, allowing access to updated data the next time the program runs. For example, when a book is checked out, its status changes from available to borrowed.
+Developed a C++ Library Management System that manages user login, book cataloging, and borrowing records. Utilized text files for persistent storage of user and book data, enabling real-time updates on book availability and user activities.
+
+
